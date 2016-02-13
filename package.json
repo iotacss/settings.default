@@ -1,0 +1,17 @@
+{
+  "name": "@iotacss/iotacss-default",
+  "version": "0.1.0",
+  "description": "Default settings for iotaCSS",
+  "main": "_settings.default.scss",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:iotacss/settings.default.git"
+  },
+  "keywords": [
+    "iotacss",
+    "css",
+    "bem",
+    "oocss"
+  ],
+  "author": "Dimitris Psaropoulos <info@harby.me>"
+}
