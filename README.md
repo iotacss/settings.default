@@ -6,7 +6,7 @@ The default settings file contains all the important settings for iotaCSS to wor
 ### Installation
 
 ```
-npm install --save doppiocss-default
+npm install --save iotacss-default
 ```
 
 

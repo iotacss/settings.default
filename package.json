@@ -1,5 +1,5 @@
 {
-  "name": "@iotacss/iotacss-default",
+  "name": "iotacss-default",
   "version": "0.1.0",
   "description": "Default settings for iotaCSS",
   "main": "_settings.default.scss",
