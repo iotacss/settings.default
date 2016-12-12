@@ -1,4 +1,4 @@
-# Default Settings
+# [Deprecated in v1.0] Default Settings
 
 The default settings file contains all the important settings for iotaCSS to work.
 
